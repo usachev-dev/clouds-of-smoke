@@ -44,12 +44,12 @@
 
 Для дистанций в игре используется базовая ширина или БШ, равная ширине баз ваших отрядов.<br />
 Пример отряда:<br />
-<img alt="Unit" src="./units/cav-hat.jpeg" style="max-width: 150px;"/>
+<img alt="Unit" src="./dist/images/units/cav-hat.jpeg" style="max-width: 150px;"/>
 
 Можно использовать любой масштаб миниатюр. Средняя или малая игра проводится на столе 120х90см. Если ширина ваших баз больше 60мм, или вы отыгрываете огомное сражение, может потребоваться стол побольше.
 <br />
 Пример игры:<br />
-<img alt="Game" src="./pictures/game.png" style="max-width: 600px;"/>
+<img alt="Game" src="./dist/images/pictures/game.png" style="max-width: 600px;"/>
 
 В игре используются шестигранные кубики, которые обозначаются d6 иди д6. 
 
@@ -178,11 +178,11 @@
 
 Когда отряд делает простое движение, в начале движения он поворачивается вокруг переднего центра в любую сторону и далее идет по прямой.
 
-<img alt="MOVE-simple" src="./pictures/move-simple.png" style="max-width: 300px;"/>
+<img  alt="MOVE-simple" src="/dist/images/pictures/move-simple.png" style="max-width: 300px;"/>
 
 Когда отряд делает сложное движение, в начале движения он поворачивается вокруг переднего центра в любую сторону и далее идет по прямой, и в конце движения может еще раз повернуться вокруг переднего центра.
 
-<img alt="MOVE-complex" src="./pictures/move-complex.png" style="max-width: 300px;"/>
+<img alt="MOVE-complex" src="/dist/images/pictures/move-complex.png" style="max-width: 300px;"/>
 
 Отряды могут свободно проходить через союзные отряды, но не могут на них останавливаться.
 Нельзя проходить через отряды противника.
@@ -191,7 +191,7 @@
 
 Формацией называется несколько отрядов, находящихся друг с другом в контакте гранями.
 
-<img alt="Formations" src="./pictures/formation.png" style="max-width: 700px;"/>
+<img alt="Formations" src="/dist/images/pictures/formation.png" style="max-width: 700px;"/>
 
 Углового контакта не достаточно, чтобы образовать формацию.
 
@@ -202,7 +202,7 @@
 
 Активный игрок должен выставить маркер так, чтобы в радиус сражения (2BW) вошло как можно больше отрядов с обеих сторон, находящихся в огневом контакте, но не в сражении.
 
-<img alt="MOVE" src="./pictures/fight-basic.png" style="max-width: 600px;"/>
+<img alt="MOVE" src="/dist/images/pictures/fight-basic.png" style="max-width: 600px;"/>
 
 Если в радиусе сражения уже были отряды, находящиеся в сражении, новый маркер становится частью этого сражения. Это значит, отряды вокруг нового маркера так же начинают в нем участвовать.
 
@@ -214,11 +214,11 @@
 
 Он идет на 45 градусов от переднего центра отряда. 
 
-<img alt="line-of-fire" src="./pictures/line-of-fire.png" style="max-width: 500px;"/>
+<img alt="line-of-fire" src="/dist/images/pictures/line-of-fire.png" style="max-width: 500px;"/>
 
 Линия огня проходит от переднего центра по сектору обстрела и прерывается отрядами, союзными или вражескими.
 
-<img alt="line-of-fire" src="./pictures/line-of-fire-2.png" style="max-width: 500px;"/>
+<img alt="line-of-fire" src="/dist/images/pictures/line-of-fire-2.png" style="max-width: 500px;"/>
 
 Два отряда противников находятся в огневом контакте, если хотя бы один из них может провести линию огня до любой части другого отряда.
 
@@ -248,7 +248,7 @@
 Затем, отряды, имеющие на линии огня противника, добавляют силу своих вооружений к результату.
 Затем, прибавляются все остальные бонусы, например, управление сражением от командира.
 
-<img alt="fight-result" src="./pictures/fight-result.png" style="max-width: 500px;"/>
+<img alt="fight-result" src="/dist/images/pictures/fight-result.png" style="max-width: 500px;"/>
 
 Отряд обязан использовать вооружение с минимальной дистанцией. Например, если отряд кавалерии находится в контакте с противником, он обязан использовать меч и не может использовать пистолет.
 
@@ -260,7 +260,7 @@
 
 Второй удар оряду противника вы можете нанести только после того, как все его отряды в этом сражении уже получили хотя бы один удар. Порядок ударов на втором круге определяется так же, как на первом: вначале те, кто ближе.
 
-<img alt="fight-result" src="./pictures/fight-resolution-1.png" style="max-width: 500px;"/>
+<img alt="fight-result" src="/dist/images/pictures/fight-resolution-1.png" style="max-width: 500px;"/>
 
 ## Разрешение ударов
 
@@ -270,7 +270,7 @@
 
 Например, дистанция отступления мушкетеров 1-2. Значит, противник передвигает ваши отряды на расстояние от 1BW до 2BW, после чего вы их разворачиваете.
 
-<img alt="fight-result" src="./pictures/fight-resolution-2.png" style="max-width: 500px;"/>
+<img alt="fight-result" src="/dist/images/pictures/fight-resolution-2.png" style="max-width: 500px;"/>
 
 Решение, будет отряд отступать или примет удар, принимает его хозяин. Решение принимается за каждый отряд по-отдельности.
 
@@ -281,7 +281,7 @@
 После этого, такую же процедуру проходит пассивный игрок.
 В нашем примере, он выбирает никем не отступать, а проходить два теста на дисциплину. Один отряд погибает.
 
-<img alt="fight-result" src="./pictures/fight-resolution-3.png" style="max-width: 500px;"/>
+<img alt="fight-result" src="/dist/images/pictures/fight-resolution-3.png" style="max-width: 500px;"/>
 
 ## Конец сражения
 

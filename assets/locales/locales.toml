@@ -1,0 +1,441 @@
+[hello]
+en = "Hello"
+ru = "Привет"
+
+[title]
+en = "Miniatures commission painting service: Wargame Art"
+ru = "Покраска миниатюр на заказ: Wargame Art"
+
+[description]
+en = "Miniatures commission painting service: Wargame Art"
+ru = "Покраска миниатюр на заказ: Wargame Art"
+
+[Keywords]
+en = "Miniature painting, miniatures commission painting, army painting, painting studio, Warhammer, Warhammer 40k, Warhammer 40000, warhammer painting, warmachine, infinity the game, hordes, order miniature painting, figure painting, board games"
+ru = "Покраска миниатюр, покраска миниатюр на заказ, покраска армий, студия покраски миниатюр, Warhammer, 40k, Warhammer 40k, Warhammer 40000, покраска warhammer, warmachine, infinity, infinity the game, hordes, покраска infinity, заказать покраску миниатюр, покраска фигурок, настольные игры"
+
+[NavbarMakeOrder]
+en = "Order Commission"
+ru = "Сделать заказ"
+
+[HomepageLogoAlt]
+en = "Wargame Art: miniature painting"
+ru = "Wargame Art: покраска миниатюр"
+
+[HomepageSubtitle]
+en = "Painting miniatures and armies for commission"
+ru = "Покраска миниатюр и целых армий на заказ в короткие сроки"
+
+[HomepageText1]
+en = "Warhammer, AOS, Warmachine, board games"
+ru = "Warhammer, AOS, Warmachine, настольные игры"
+
+[HomepageText2]
+en = "and any other models"
+ru = "и любые другие модели."
+
+[HomepageAction]
+en = "Place order"
+ru = "Сделать заказ"
+
+[HomepageFeature1]
+en = "Clear and low prices"
+ru = "Понятные и низкие цены"
+
+[HomepageFeature1Text]
+en = "Price of paiting is proportional to the price of the model"
+ru = "Цена на покраску модели определяется ее ценой у производителя"
+
+[HomepageFeature2]
+en = "Quick work"
+ru = "Быстрая работа"
+
+[HomepageFeature2Text]
+en = "No queue — I start painting right away. Tournament size army in a month is quite possible. "
+ru = "Никакой очереди — я сразу берусь за ваш заказ. Армия на турнирный формат за месяц — это вполне реально!"
+
+[HomepageFeature3]
+en = "Attention to detail"
+ru = "Внимание к деталям"
+
+[HomepageFeature3Text]
+en = "I am always precise with the color scheme and other requirements"
+ru = "Я всегда предельно внимателен к пожеланиям заказчиков и четко выдерживаю цветовую схему."
+
+[HomepageFeature4]
+en = "Big Armies"
+ru = "Большие армии"
+
+[HomepageFeature4Text]
+en = "I like paiting big armies, and I am not intimidated by them. Some painters get tired painting large quantities of similar models, but not me. The bigger the army the better!"
+ru = "Я люблю большие армии и не боюсь за них браться! Многие художники устают от больших объемов похожих моделей, но не я. Чем больше армия, тем лучше!"
+
+[HomepageSection1Title]
+en = "I paint any models"
+ru = "Крашу любые модели"
+
+[HomepagePrices]
+en = "Price"
+ru = "Цены"
+
+[HomepagePricesText]
+en = "As a starting point I use the price of miniatures at the retailer. The more they charge for the model, the more time-consuming it is for me to paint it. Assembly is worth half the retail price. Basing and varnishing is free. There are two painting levels: "
+ru = "За отправную точку я беру то, как миниатюру оценивает сам производитель. Чем дешевле модель, тем проще мне ее покрасить, и наоборот. Сборка стоит половину от стоимости моделей, независимо от уровня покраски. Оформление баз и лакировка — бесплатно. Есть два уровня покраски: "
+
+[HomepagePricesOptimal]
+en = "Optimal"
+ru = "Оптимальный"
+
+[HomepagePricex2]
+en = "Model price x2"
+ru = "Цена модели x2"
+
+[HomepagePricex2Text]
+en = "Nice detailed paintjob. Vibrant, readable colors and light effects. Your models will look exellent on the gaming table and on the shelf. "
+ru = "Хорошая покраска с проработкой деталей. Сочные контрастные цвета, световые эффекты. Ваши модели будут отлично выглядеть на столе и на полке."
+
+[HomepagePriceArt]
+en = "Display"
+ru = "Художественный"
+
+[HomepagePriceArtSubtitle]
+en = "Price negotiable"
+ru = "Цена по договоренности"
+
+[HomepagePriceArtText]
+en = "The best paintjob I can do. Good choice for the characters in your army, or for models intended as a gift. Great details, advanced techniques. All prices commissions of this level are negodiated individually."
+ru = "Лучшая покраска: Отличный выбор для героев вашей армии или моделей в подарок. Максимальная проработка деталей, продвинутые техники. Все детали заказов этого уровня обговариваются индивидуально."
+
+[HomepageReviews]
+en = "Customer reviews"
+ru = "Отзывы клиентов"
+
+[HomepageSergey]
+en = "Sergey Denisov"
+ru = "Сергей Денисов"
+
+[HomepageSergeyText]
+en = "I have been Alexey's customer for more than 5 years. He always follows customer instructions, has a wide range of pricing for any model. It is hard to believe, but Alexey NEVER has missed a deadline regardless of the commission size or difficulty. It has never been a problem to contact him to discuss commission's details. I highly recommend Alexey's service if you want a quality paintjob for your models in a certain time."
+ru = "Пользуюсь услугами Алексея более 5 лет. Маcтер всегда четко следут пожеланиям заказчика, имеет гибкий диапазон уровня покраски для каждой модели. Из самого удивительного - Алексей НИ РАЗУ не просрочил дату выполнения заказа вне зависимости от размера и сложности исполнения. Также, ни разу не было проблоемы связаться с ним и уточнить детали по заказу. Очень рекомендую услуги Алексея всем, кто хочет получить качественный покрас в конкретные сроки."
+
+[HomepageVictor]
+en = "Victor Leonov"
+ru = "Виктор Леонов"
+
+[HomepageVictorText]
+en = "I have commissioned Alexey with army painting for over a year, since when I first got started with the hobby. During this time he has painted my entire T'au army, which won a \"Best painted army\" award at our gaming club. He has also painted the army of Blood Angels and 3 Imparial Knights. All commissions are done with quality and in time. Painting level is very good, whether it is a simple gaming piece or a display quiality figure. Alexey is now painting my Harlequin commission, with all their usual patterns and details. I am very fond of Alexey's painting service. It is hard to find a painter in Moscow, whose workd are better in price, quality or speed. "
+ru = "Заказываю у Алексея покраску армий с самого начала своего увлечения хобби. Чуть больше года. За это время он мне покрасил всю мою армию тау. Армия выиграла приз \"best painted army\" на турнире в клубе Юнион. Так же армию бладов и серых рыцарей + 3 имперских рыцарей. Все работы выполняются качественно и без задержек. Причем уровень покраски очень хорош, начиная от простой игровухи и заканчивая художкой. Сейчас Алексей начал красить мне маску арлекинов. В лучших традициях этих парней, со всеми ромбиками и рюшечками, пока всем доволен =). В Москве трудно найти художника, работы которого лучше по соотношению цена/качество/сроки выполнения."
+
+[HomepageVladislav]
+en = "Vladislav Kravchuk"
+ru = "Владислав Кравчук"
+
+[HomepageVladislavText]
+en = "I am completely satisfied with Alexey's painting price and quality. Speed is nice too. All my request were completed, and I am fond of the final product. I have commissioned over a 100 points of Warmachine Cryx. All models look great on the table, are done in a coherent color scheme and nicely based and. I look forward to commissioning more models. I think, that Alexey is the best army painter at the time in Moscow."
+ru = "Меня полностью удовлетворило соотношение цена-качество. Скорость работы соответствовала моим запросам. Все замечания устранялись в полном объеме и конечный продукт меня в итоге полностью устраивал. В сумме было качественно собрано и открашено более чем на 100 очков Крикса. Все миниатюры отлично смотрятся на столе. Выдержана единая композиция. Подставки оформлены и органично смотрятся в общей тематике армии. В дальнейшем планирую продолжить сотрудничество с Алексеем. На мой взгляд, на сегодняшний день, это лучший художник, предлагающий профессиональный покрас миниатюр в Москве для стола."
+
+[HomepageMaster]
+en = "Painter"
+ru = "Мастер"
+
+[HomepageAlexey]
+en = "Alexey Usachev"
+ru = "Алексей Усачев"
+
+[HomepageAlexeyText1]
+en = "I am in hobby since 2004. My first army was Warhammer Fantasy Battles Dwarves, then Warriors of Chaos, and a lot more games and armies since then. The thing I value the most in our hobby is army painting, when you plan the project, work hard to make it happen, and then put it on the table against another hobbyist's army. This is the moment you realize the hours spent painting were not in vain."
+ru = """
+Я в хобби с 2004 года. Первой игрой был Warhammer Fantasy и гномы, затем воины Хаоса, затем 40к и сестры
+битвы, затем Warmachine и Хадор, и пошло поехало. Что я больше всего ценю в нашем хобби — это процесс сборки
+и покраски армии, когда продумываешь все, затем работаешь над реализацией, и, наконец, выставляешь на стол
+против другой красивой армии. Тот самый момент, когда понимаешь, что часы, проведенные за покрасочным
+столом, прошли не зря.
+"""
+
+[HomepageAlexeyText2]
+en = "For people who are not so fond of painting or do not have enough time to paint armies, but who want to play with beautifully painted models, I offer my service. I have been commission painting since 2009, and all that time I continue to paint for myself, just because I like it. During this time I painted a lot of armies for very different games."
+ru = """
+Для людей, которых не так увлекает процесс покраски, или нет на нее времени, но есть желание играть красивыми
+армиями, я и предлагаю свои услуги. Я крашу на заказ с 2009-го года. За это время я покрасил множество целых
+армий во всех возможных системах, но не перестаю красить и
+для себя, просто потому что люблю это дело.
+"""
+
+[HomepageAlexeyText3]
+en = "Armies that I painted have won several \"Best painted\" awards at local tournaments and are guaranteed to look good on the table."
+ru = """
+Армии, которые я покрасил, не раз выигрывали призы за лучшую покраску и гарантированно хорошо смотрятся на
+столе.
+"""
+
+[HomepageProcess]
+en = "Process"
+ru = "Процесс работы"
+
+[HomepageProcess11]
+en = "Place an order "
+ru = "Оформляете заказ "
+
+[HomepageProcess12]
+en = "by phone "
+ru = "по телефону "
+
+[HomepageProcess13]
+en = "or by "
+ru = "или в "
+
+[HomepageProcess14]
+en = "Telegram"
+ru = "телеграме"
+
+[HomepageProcess2]
+en = "Ship me the models and I start working"
+ru = "Передаете модели и я начинаю работу"
+
+[HomepageProcess3]
+en = "You pay and I ship you the finished product"
+ru = "Оплачиваете и забираете готовые модели"
+
+[HomepageProcessPoint11]
+en = "I require "
+ru = "Работаю "
+
+[HomepageProcessPoint12]
+en = "no advance payment"
+ru = "без предоплаты"
+
+[HomepageProcessPoint2]
+en = "You can ship me the models with any method: post, delivery, personal meeting in Moscow. I can buy the models for you in a local store, in which case advance payment for the models is required."
+ru = "Есть несколько вариантов передать нам модели: курьер, встреча в Москве, почта, я покупаю модели в магазине (в этом случае требуется предоплата за сами модели)"
+
+[HomepageMakeOrder]
+en = "Order Commission"
+ru = "Сделать заказ"
+
+[FooterSocialTitle]
+en = "Social"
+ru = "Социальные сети"
+
+[FooterService]
+en = "Services"
+ru = "Услуги"
+
+[FooterServicesPaint]
+en = "Miniature painting"
+ru = "Покраска миниатюр"
+
+[FooterServicesPaintBG]
+en = "Board game miniatures painting"
+ru = "Покраска настольных игр"
+
+[FooterServiceWH]
+en = "Warhammer painting"
+ru = "Warhammer покраска"
+
+[FooterServiceHist]
+en = "Historical miniatures"
+ru = "Историческая миниатюра"
+
+[FooterScaleModelsPaint]
+en = "Scale models painting"
+ru = "Масштабные модели покраска"
+
+[FooterSystemsPaint]
+en = "Malifaux, Infinity the Game, Warmachine painting"
+ru = "Malifaux, Infinity the Game, Warmachine покраска"
+
+[FooterContacts]
+en = "Contacts"
+ru = "Контакты"
+
+[FooterDevel]
+en = "Site developed by "
+ru = "Разработка сайта: "
+
+[FooterAlexey]
+en = "Alexey Usachev"
+ru = "Алексей Усачев"
+
+[OrderModalOrder1]
+en = "To commission a paintjob, call me at"
+ru = "Чтобы сделать заказ, позвоните мне по телефону"
+
+[OrderModalOrder2]
+en = "or message me in"
+ru = "или напишите в"
+
+[SignUp]
+en = "Sign up"
+ru = "Зарегистрироваться"
+
+[Login]
+en = "Sign in"
+ru = "Войти"
+
+[Email]
+en = "Email"
+ru = "Email"
+
+[Password]
+en = "Password"
+ru = "Пароль"
+
+[NewPassword]
+en = "New password"
+ru = "Новый пароль"
+
+[PasswordRepeat]
+en = "Repeat password"
+ru = "Повторите пароль"
+
+[PasswordChange]
+en = "Set new password"
+ru = "Установить новый пароль"
+
+[PasswordForgot]
+en = "Forgot password?"
+ru = "Забыли пароль?"
+
+[Username]
+en = "Username"
+ru = "Имя пользователя"
+
+[LoginHint]
+en = "Already signed up? Log in"
+ru = "Уже зарегистрировались? Зайдите"
+
+[SignupHint]
+en = "Sign up"
+ru = "Зарегистрироваться"
+
+[EmptyPasswordError]
+en = "Password must not be empty"
+ru = "Пароль не может быть пустым"
+
+[EmptyEmailError]
+en = "Email must not be empty"
+ru = "Почтовый адрес не может быть пустым"
+
+[InvalidEmailError]
+en = "Email invalid"
+ru = "Почтовый адрес не подходит"
+
+[DefaultError]
+en = "Something went wrong, sorry"
+ru = "Что-то пошло не так, извините"
+
+[UserCreateSuccess]
+en = "User successfully created"
+ru = "Пользователь создан успешно"
+
+[LogInSuccess]
+en = "Successfully logged in"
+ru = "Успешно вошли в систему"
+
+[EmailTakenError]
+en = "User with this email already exists"
+ru = "Пользователь с таким адресом почты уже существует"
+
+[Logout]
+en = "Log out"
+ru = "Выйти"
+
+[WrongPasswordError]
+en = "Email and password do not match"
+ru = "Email и пароль не совпадают"
+
+[WrongChangePasswordError]
+en = "Wrong password"
+ru = "Неверный пароль не совпадают"
+
+[PasswordRepeatError]
+en = "Password and password repeat do not match"
+ru = "Новый пароль и повтор не совпадают"
+
+[PasswordChangeSuccess]
+en = "Password successfully changed"
+ru = "Пароль успешно изменен"
+
+[PasswordTooShortError]
+en = "Password too short"
+ru = "Пароль слишком короткий"
+
+[PasswordResetLinkSuccess]
+en = "A link to reset password was sent to your email"
+ru = "На вашу почту отправлена ссылка для смены пароля"
+
+[PasswordResetLink]
+en = "Follow the link to reset password"
+ru = "Перейдите по ссылке, чтобы сменить пароль"
+
+[PasswordResetSubject]
+en = "Wargame Art password reset link"
+ru = "Wargame Art: ссылка на изменение пароля"
+
+[Code]
+en = "Code"
+ru = "Код"
+
+[CodeError]
+en = "Code incorrect"
+ru = "Код неверный"
+
+[BecomeAdminSuccess]
+en = "You are now an admin"
+ru = "Ты теперь админ"
+
+[Users]
+en = "Users"
+ru = "Пользователи"
+
+[User]
+en = "User"
+ru = "Пользователь"
+
+[Save]
+en = "Save"
+ru = "Сохранить"
+
+[Cancel]
+en = "Cancel"
+ru = "Отмена"
+
+[Images]
+en = "Images"
+ru = "Изображения"
+
+[Image]
+en = "Image"
+ru = "Изображение"
+
+[Gallery]
+en = "Gallery"
+ru = "Галерея"
+
+[Galleries]
+en = "Galleries"
+ru = "Галереи"
+
+[CreateGallery]
+en = "New gallery"
+ru = "Новая галерея"
+
+[Create]
+en = "Create"
+ru = "Создать"
+
+[GalleryCreateSuccess]
+en = "Gallery created successfully"
+ru = "Галерея успешно создана"
+
+[EmptyTitleError]
+en = "Title must not be empty"
+ru = "Заголовок не может быть пустым"
+
+[EmptyUrlError]
+en = "Url must not be empty"
+ru = "Url не может быть пустым"
+
+[UsedUrlError]
+en = "Gallery with this url already exists"
+ru = "Галерея с таким URL уже существует"
