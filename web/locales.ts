@@ -22,15 +22,20 @@ export let locales = supportedLangs.reduce((acc, lang, index) => {
 }, {});
 
 function redirectToLangPage(ctx: Context<State>, lang: string) {
-  if (lang == 'en') {
+  let param = ctx.request.url.searchParams.get('lang')
+  if (lang == 'en' && !param) {
+    return
+  }
+  if (lang == param) {
     return
   }
   let params = ctx.request.url.search
   if (params.length > 0) {
     params = `${params}&lang=${lang}`
+  } else {
+    params = `?lang=${lang}`
   }
   let url = ctx.request.url.origin + ctx.request.url.pathname + params
-  console.log('redirect url is ', url)
   ctx.response.redirect(url);
 }
 

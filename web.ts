@@ -1,35 +1,17 @@
-import { Marked } from "https://deno.land/x/markdown@v2.0.0/mod.ts";
-import { Application, Router} from "https://deno.land/x/oak/mod.ts";
+import {Application, Router, send} from "https://deno.land/x/oak/mod.ts";
 import {staticServer} from "./web/static.ts";
-import {locales, setRequestLocale} from "./web/locales.ts";
+import {setRequestLocale} from "./web/locales.ts";
 import {State} from "./web/state.ts";
-
-const decoder = new TextDecoder("utf-8");
-const md = decoder.decode(await Deno.readFile("./readme.MD"));
-const markup = Marked.parse(md);
-
+import {homepage} from "./web/homepage.ts";
 
 const app = new Application<State>();
 const router = new Router();
 
 app.use(staticServer)
 app.use(setRequestLocale)
+console.log(await Deno.stat('./dist/favicon.ico'))
+router.get("/", homepage)
 
-app.use((ctx) => {
-  ctx.response.body = `
-  <!DOCTYPE html>
-  <html lang="ru">
-  <head>
-      <meta charset="utf-8">
-      <title>Облака дыма</title>
-  </head>
-  <body>
-  ${markup.content}
-  </body>
-  </html>  
-  `;
-});
+app.use(router.routes());
 
-console.log('locales', locales)
-
-await app.listen({ port: 8000 });
+await app.listen({port: 8000});
